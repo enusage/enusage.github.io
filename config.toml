@@ -1,0 +1,5 @@
+baseURL = "https://enusage.github.io/"
+# languageCode = "zh-CN"
+title = "The ENUSAGE Project"
+theme = "ananke"
+publishdir = "docs"
