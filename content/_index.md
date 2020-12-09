@@ -5,15 +5,16 @@ description: ""
 # draft: true
 ---
 
+<div style="text-align: left">
 ## NOTICE
 
 ***Open-collaborative editing system*** is coming soon.
 
-Please can send new entries and/or edits by mail at the moment.
+Please send new entries and/or edits by mail at the moment.
 
 ---
 
 Suggest/Contact: enusage@163.com
 
-Also visit: [Vocabulary.com](https://www.vocabulary.com/)
-
+Links: [Vocabulary.com](https://www.vocabulary.com/), 	[Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) by Dr John Morley (The University of Manchester)
+	- [Read online](https://www.ref-n-write.com/trial/academic-phrasebank/), [Grammarly](www.grammarly.com).
